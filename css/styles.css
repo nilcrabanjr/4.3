@@ -52,3 +52,9 @@ header img:hover {
     font-weight: bold;
     text-decoration: underline;
 }
+
+.responsive-svg-container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    max-width: 1200px;
